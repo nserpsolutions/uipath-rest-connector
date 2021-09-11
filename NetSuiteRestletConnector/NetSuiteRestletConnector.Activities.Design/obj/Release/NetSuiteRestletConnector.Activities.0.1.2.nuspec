@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NetSuiteRestletConnector.Activities</id>
+    <version>0.1.2</version>
+    <authors>Selcuk Dogru</authors>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <projectUrl>https://github.com/nserpsolutions</projectUrl>
+    <iconUrl>https://avatars.githubusercontent.com/u/78316472?v=4</iconUrl>
+    <description>Processes requests to NetSuite Restlet Endpoint using OAuth1.0</description>
+    <copyright>© 2021 nserpsolutions.com</copyright>
+    <tags>NetSuite Restlet</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.6.1" />
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="Microsoft.CSharp" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="PresentationCore" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="PresentationFramework" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Activities.Core.Presentation" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Activities" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Activities.Presentation" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Data.DataSetExtensions" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Data" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Xaml" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Xml" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="System.Xml.Linq" targetFramework=".NETFramework4.6.1" />
+      <frameworkAssembly assemblyName="WindowsBase" targetFramework=".NETFramework4.6.1" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Release\net461\NetSuiteRestletConnector.Activities.dll" target="lib\net461\NetSuiteRestletConnector.Activities.dll" />
+    <file src="C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Release\net461\NetSuiteRestletConnector.Activities.xml" target="lib\net461\NetSuiteRestletConnector.Activities.xml" />
+    <file src="C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities.Design\bin\Release\net461\NetSuiteRestletConnector.Activities.Design.dll" target="lib\net461\NetSuiteRestletConnector.Activities.Design.dll" />
+    <file src="C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities.Design\bin\Release\net461\NetSuiteRestletConnector.Activities.Design.xml" target="lib\net461\NetSuiteRestletConnector.Activities.Design.xml" />
+    <file src="C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities.Design\packageIcon.png" target="packageIcon.png" />
+  </files>
+</package>

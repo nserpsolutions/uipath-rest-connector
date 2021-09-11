@@ -1,0 +1,17 @@
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.csproj.AssemblyReference.cache
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.Properties.Resources.resources
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.csproj.GenerateResource.cache
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.AssemblyInfoInputs.cache
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.AssemblyInfo.cs
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.csproj.CoreCompileInputs.cache
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Debug\net461\NetSuiteRestletConnector.Activities.dll
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Debug\net461\NetSuiteRestletConnector.Activities.pdb
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Debug\net461\NetSuiteRestletConnector.Activities.xml
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Debug\net461\NetSuiteRestletConnector.dll
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Debug\net461\NetSuiteRestletConnector.pdb
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Debug\net461\NetSuiteRestletConnector.xml
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.csproj.CopyComplete
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.dll
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\obj\Debug\net461\NetSuiteRestletConnector.Activities.pdb
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector.Activities\bin\Debug\net461\Newtonsoft.Json.dll

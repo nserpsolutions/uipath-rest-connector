@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "pQOPKmVe0Hy/3y/OwtrAVwvWewT7iHMB6yvYnDVI4e/R78tlPSL4RuboJxZCPpcNg3WCsMvELhqhxc1xpbrhxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\selcuk.dogru\\Documents\\GitHub\\uipath-rest-connector\\NetSuiteRestletConnector\\NetSuiteRestletConnector.Activities\\NetSuiteRestletConnector.Activities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\selcuk.dogru\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

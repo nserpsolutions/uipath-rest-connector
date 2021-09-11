@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\selcuk.dogru\\Documents\\GitHub\\uipath-rest-connector\\NetSuiteRestletConnector\\NetSuiteRestletConnector\\NetSuiteRestletConnector.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\selcuk.dogru\\Documents\\GitHub\\uipath-rest-connector\\NetSuiteRestletConnector\\NetSuiteRestletConnector\\NetSuiteRestletConnector.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\selcuk.dogru\\Documents\\GitHub\\uipath-rest-connector\\NetSuiteRestletConnector\\NetSuiteRestletConnector\\NetSuiteRestletConnector.csproj",
+        "projectName": "NetSuiteRestletConnector",
+        "projectPath": "C:\\Users\\selcuk.dogru\\Documents\\GitHub\\uipath-rest-connector\\NetSuiteRestletConnector\\NetSuiteRestletConnector\\NetSuiteRestletConnector.csproj",
+        "packagesPath": "C:\\Users\\selcuk.dogru\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\selcuk.dogru\\Documents\\GitHub\\uipath-rest-connector\\NetSuiteRestletConnector\\NetSuiteRestletConnector\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "C:\\Users\\selcuk.dogru\\source\\repos\\NSERPSolutions\\.nuget\\NuGet.Config",
+          "C:\\Users\\selcuk.dogru\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\selcuk.dogru\\source\\repos\\NSERPSolutions\\NetSuiteRestletConnector\\NetSuiteRestletConnector.Activities.Design\\bin\\Release\\net461\\publish": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net461": {
+            "targetAlias": "net461",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

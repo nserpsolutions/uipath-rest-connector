@@ -1,0 +1,489 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>NetSuiteRestletConnector.Activities</name>
+    </assembly>
+    <members>
+        <member name="P:NetSuiteRestletConnector.Activities.NetSuiteProcessRestlet.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="T:NetSuiteRestletConnector.Activities.Properties.Resources">
+            <summary>
+              A strongly-typed resource class, for looking up localized strings, etc.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.ResourceManager">
+            <summary>
+              Returns the cached ResourceManager instance used by this class.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Culture">
+            <summary>
+              Overrides the current thread's CurrentUICulture property for all
+              resource lookups using this strongly typed resource class.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Authentication_Category">
+            <summary>
+              Looks up a localized string similar to Authentication.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Common_Category">
+            <summary>
+              Looks up a localized string similar to Common.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.ContinueOnError_Description">
+            <summary>
+              Looks up a localized string similar to If set, continue executing the remaining activities even if the current activity has failed..
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.ContinueOnError_DisplayName">
+            <summary>
+              Looks up a localized string similar to ContinueOnError.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Do">
+            <summary>
+              Looks up a localized string similar to Do.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Input_Category">
+            <summary>
+              Looks up a localized string similar to Input.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_AccountID_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_AccountID_DisplayName">
+            <summary>
+              Looks up a localized string similar to Account ID.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_ConsumerKey_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_ConsumerKey_DisplayName">
+            <summary>
+              Looks up a localized string similar to Consumer Key.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_ConsumerSecret_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_ConsumerSecret_DisplayName">
+            <summary>
+              Looks up a localized string similar to Consumer Secret.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_DisplayName">
+            <summary>
+              Looks up a localized string similar to NetSuite Process Restlet.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_RequestData_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_RequestData_DisplayName">
+            <summary>
+              Looks up a localized string similar to Request Data.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_RequestType_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_RequestType_DisplayName">
+            <summary>
+              Looks up a localized string similar to Request Type.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_ResponseData_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_ResponseData_DisplayName">
+            <summary>
+              Looks up a localized string similar to Response Data.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_RestletURL_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_RestletURL_DisplayName">
+            <summary>
+              Looks up a localized string similar to Restlet URL.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_TokenID_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_TokenID_DisplayName">
+            <summary>
+              Looks up a localized string similar to Token ID.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_TokenSecret_Description">
+            <summary>
+              Looks up a localized string similar to .
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.NetSuiteProcessRestlet_TokenSecret_DisplayName">
+            <summary>
+              Looks up a localized string similar to Token Secret.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Options_Category">
+            <summary>
+              Looks up a localized string similar to Options.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Output_Category">
+            <summary>
+              Looks up a localized string similar to Output.
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Timeout_Description">
+            <summary>
+              Looks up a localized string similar to Specifies the amount of time (in milliseconds) to wait for the activity to run before an error is thrown. The default value is 60000 (1 minute)..
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Timeout_DisplayName">
+            <summary>
+              Looks up a localized string similar to Timeout (milliseconds).
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.Timeout_Error">
+            <summary>
+              Looks up a localized string similar to The activity timed out and was canceled..
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.ValidationExclusiveProperties_Error">
+            <summary>
+              Looks up a localized string similar to Please provide a value either for {0} or {1}, but not both..
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.ValidationOverloadGroup_Error">
+            <summary>
+              Looks up a localized string similar to Please provide values for both {0} and {1}..
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.ValidationScope_Error">
+            <summary>
+              Looks up a localized string similar to Cannot be used outside of a {0}..
+            </summary>
+        </member>
+        <member name="P:NetSuiteRestletConnector.Activities.Properties.Resources.ValidationValue_Error">
+            <summary>
+              Looks up a localized string similar to Please provide a value for {0}..
+            </summary>
+        </member>
+        <member name="T:OAuth.OAuthBase.SignatureTypes">
+            <summary>
+            Provides a predefined set of algorithms that are supported officially by the protocol
+            </summary>
+        </member>
+        <member name="T:OAuth.OAuthBase.QueryParameter">
+            <summary>
+            Provides an internal structure to sort the query parameter
+            </summary>
+        </member>
+        <member name="T:OAuth.OAuthBase.QueryParameterComparer">
+            <summary>
+            Comparer class used to perform the sorting of the query parameters
+            </summary>
+        </member>
+        <member name="M:OAuth.OAuthBase.ComputeHash(System.Security.Cryptography.HashAlgorithm,System.String)">
+            <summary>
+            Helper function to compute a hash value
+            </summary>
+            <param name="hashAlgorithm">The hashing algoirhtm used. If that algorithm needs some initialization, like HMAC and its derivatives, they should be initialized prior to passing it to this function</param>
+            <param name="data">The data to hash</param>
+            <returns>a Base64 string of the hash value</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.GetQueryParameters(System.String)">
+            <summary>
+            Internal function to cut out all non oauth query string parameters (all parameters not begining with "oauth_")
+            </summary>
+            <param name="parameters">The query string part of the Url</param>
+            <returns>A list of QueryParameter each containing the parameter name and value</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.UrlEncode(System.String)">
+            <summary>
+            This is a different Url Encode implementation since the default .NET one outputs the percent encoding in lower case.
+            While this is not a problem with the percent encoding spec, it is used in upper case throughout OAuth
+            </summary>
+            <param name="value">The value to Url encode</param>
+            <returns>Returns a Url encoded string</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.NormalizeRequestParameters(System.Collections.Generic.IList{OAuth.OAuthBase.QueryParameter})">
+            <summary>
+            Normalizes the request parameters according to the spec
+            </summary>
+            <param name="parameters">The list of parameters already sorted</param>
+            <returns>a string representing the normalized parameters</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.GenerateSignatureBase(System.Uri,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String@,System.String@)">
+            <summary>
+            Generate the signature base that is used to produce the signature
+            </summary>
+            <param name="url">The full url that needs to be signed including its non OAuth url parameters</param>
+            <param name="consumerKey">The consumer key</param>        
+            <param name="token">The token, if available. If not available pass null or an empty string</param>
+            <param name="tokenSecret">The token secret, if available. If not available pass null or an empty string</param>
+            <param name="httpMethod">The http method used. Must be a valid HTTP method verb (POST,GET,PUT, etc)</param>
+            <param name="signatureType">The signature type. To use the default values use <see cref="T:OAuth.OAuthBase.SignatureTypes">OAuthBase.SignatureTypes</see>.</param>
+            <returns>The signature base</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.GenerateSignatureUsingHash(System.String,System.Security.Cryptography.HashAlgorithm)">
+            <summary>
+            Generate the signature value based on the given signature base and hash algorithm
+            </summary>
+            <param name="signatureBase">The signature based as produced by the GenerateSignatureBase method or by any other means</param>
+            <param name="hash">The hash algorithm used to perform the hashing. If the hashing algorithm requires initialization or a key it should be set prior to calling this method</param>
+            <returns>A base64 string of the hash value</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.GenerateSignature(System.Uri,System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String@,System.String@)">
+            <summary>
+            Generates a signature using the HMAC-SHA256 algorithm
+            </summary>		
+            <param name="url">The full url that needs to be signed including its non OAuth url parameters</param>
+            <param name="consumerKey">The consumer key</param>
+            <param name="consumerSecret">The consumer seceret</param>
+            <param name="token">The token, if available. If not available pass null or an empty string</param>
+            <param name="tokenSecret">The token secret, if available. If not available pass null or an empty string</param>
+            <param name="httpMethod">The http method used. Must be a valid HTTP method verb (POST,GET,PUT, etc)</param>
+            <returns>A base64 string of the hash value</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.GenerateSignature(System.Uri,System.String,System.String,System.String,System.String,System.String,System.String,System.String,OAuth.OAuthBase.SignatureTypes,System.String@,System.String@)">
+            <summary>
+            Generates a signature using the specified signatureType 
+            </summary>		
+            <param name="url">The full url that needs to be signed including its non OAuth url parameters</param>
+            <param name="consumerKey">The consumer key</param>
+            <param name="consumerSecret">The consumer seceret</param>
+            <param name="token">The token, if available. If not available pass null or an empty string</param>
+            <param name="tokenSecret">The token secret, if available. If not available pass null or an empty string</param>
+            <param name="httpMethod">The http method used. Must be a valid HTTP method verb (POST,GET,PUT, etc)</param>
+            <param name="signatureType">The type of signature to use</param>
+            <returns>A base64 string of the hash value</returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.GenerateTimeStamp">
+            <summary>
+            Generate the timestamp for the signature        
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:OAuth.OAuthBase.GenerateNonce">
+            <summary>
+            Generate a nonce
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Contracts.IBaseChildActivity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Gets the services container. This stores the authenticated clients
+            </summary>
+            <param name="context">The context.</param>
+            <param name="propertyName"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.IObjectContainer">
+            <summary>
+            A simple container for objects meant to be shared accross the application space.
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Add``1(``0)">
+            <summary>
+            Stores a reference to an object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="objectToAdd"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Get``1">
+            <summary>
+            Gets the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Where(System.Func{System.Object,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Remove``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Contains``1">
+            <summary>
+            Determines whether this instance contains the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns>
+              <c>true</c> if this instance contains object; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Clear">
+            <summary>
+            Clears this instance.
+            </summary>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Utilities.ChildActivityExtensions">
+            <summary>Provides the standard functionality across activities.</summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.ObjectContainer">
+            <summary>
+            A simple container for objects meant to be shared accross the application space.
+            </summary>
+        </member>
+        <member name="F:UiPath.Shared.Activities.ObjectContainer._objectHolder">
+            <summary>
+            Gets the object holder.
+            </summary>
+            <value>
+            The object holder.
+            </value>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:UiPath.Shared.Activities.ObjectContainer"/> class.
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Add``1(``0)">
+            <summary>
+            Stores a reference to a object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="object"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Get``1">
+            <summary>
+            Gets the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Where(System.Func{System.Object,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Remove``1">
+            <summary>
+            Remove a object from the container
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Contains``1">
+            <summary>
+            Determines whether this instance contains the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns>
+              <c>true</c> if this instance contains object; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Clear">
+            <summary>
+            Clears this instance.
+            </summary>
+        </member>
+    </members>
+</doc>

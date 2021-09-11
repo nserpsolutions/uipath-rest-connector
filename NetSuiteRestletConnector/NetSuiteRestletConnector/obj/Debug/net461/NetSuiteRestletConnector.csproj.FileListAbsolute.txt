@@ -1,0 +1,12 @@
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\bin\Debug\net461\NetSuiteRestletConnector.dll
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\bin\Debug\net461\NetSuiteRestletConnector.pdb
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\bin\Debug\net461\NetSuiteRestletConnector.xml
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.Properties.Resources.resources
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.csproj.GenerateResource.cache
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.AssemblyInfoInputs.cache
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.AssemblyInfo.cs
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.csproj.CoreCompileInputs.cache
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.dll
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.pdb
+C:\Users\selcuk.dogru\source\repos\NSERPSolutions\NetSuiteRestletConnector\NetSuiteRestletConnector\obj\Debug\net461\NetSuiteRestletConnector.csproj.AssemblyReference.cache
